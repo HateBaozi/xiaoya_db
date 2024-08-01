@@ -52,9 +52,7 @@ s_paths = [
     quote('115/'),
     quote('每日更新/'),
     quote('电影/2023/'),
-    quote('纪录片（已刮削）/'),
-    quote('音乐/'),
-    quote('综艺/')
+    quote('纪录片（已刮削）/')
 ]
 
 s_pool = [
